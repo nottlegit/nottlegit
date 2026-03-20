@@ -43,6 +43,5 @@ JUnit, Mockito, MockMVC, Postman
 ## 📫 Контакты
 
 Telegram: [@grrmnv](https://t.me/grrmnv)  
-GitHub: [grrmnv](https://github.com/grrmnv)
 
 Всегда открыт для интересных предложений и профессионального общения.
