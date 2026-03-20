@@ -1,16 +1,48 @@
-## Hi there 👋
+# Привет, я Григорий 👋
 
-<!--
-**nottlegit/nottlegit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-разработчик, специализируюсь на Java и Spring Boot.  
+Стремлюсь писать чистый, поддерживаемый код и выстраивать понятную архитектуру приложений.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Стек технологий
+
+**Backend**
+Java (OOP, Generics, Collections, Streams, Lambdas)  
+Spring Boot (MVC, Data JPA, Validation)  
+REST API, Hibernate/JPA  
+
+**Базы данных**
+PostgreSQL, H2, SQL (joins, индексы, оптимизация запросов)  
+
+**Инструменты и сборка**
+Maven, Git, GitHub, IntelliJ IDEA, Docker (базовый уровень)  
+
+**Тестирование**
+JUnit, Mockito, MockMVC, Postman  
+
+---
+
+## 📂 Проекты
+
+### ShareIt — сервис шеринга вещей
+Сервис для аренды вещей между пользователями. Реализована микросервисная архитектура: gateway выполняет валидацию запросов, server — основную бизнес-логику.
+
+**Функциональность:**
+- CRUD операции с пользователями и вещами
+- Бронирование вещей на даты с подтверждением владельцем
+- Отзывы после завершения аренды
+- Создание запросов на вещи, которых нет в каталоге
+- Поиск по названию и описанию
+
+**Стек:** Java, Spring Boot, PostgreSQL, Hibernate/JPA, REST API, Maven, JUnit, Mockito  
+[Репозиторий](https://github.com/grrmnv/shareit)
+
+---
+
+## 📫 Контакты
+
+Telegram: [@grrmnv](https://t.me/grrmnv)  
+GitHub: [grrmnv](https://github.com/grrmnv)
+
+Всегда открыт для интересных предложений и профессионального общения.
